@@ -1,3 +1,10 @@
-### Hello World
+---
+layout: post
+title:  "Welcome to my Blog!"
+---
 
-This is getting my new blog created and ready to roll.
+# Welcome
+
+**Hello world**, this is my first blog post.
+
+I hope you like it!
