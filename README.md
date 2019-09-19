@@ -4,6 +4,8 @@
   }
 </style>
 
+<br />
+
 # Matt's UMB Blog
 
 <br />
@@ -17,3 +19,5 @@ I think I'll just keep this at one page for now...
 
 Cheers!
 
+
+<br /><br />
