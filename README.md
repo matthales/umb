@@ -1,7 +1,9 @@
 <style>
   #forkme_banner {
     display: none;
-  font-size: 20px;
+  }
+  p {
+    font-size: 20px;
   }
 </style>
 
