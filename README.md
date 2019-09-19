@@ -1,3 +1,19 @@
+<style>
+  #forkme_banner {
+    display: none;
+  }
+</style>
+
+## First Actual Post
+
+Welcome to my first actual post!
+
+I think I'll just keep this at one page for now...
+
+Cheers!
+
+<br /><br />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/matthales/umb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -27,11 +43,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
